@@ -1,5 +1,5 @@
 [
-{"Quantity":1,"Weight":0,PricePer":5.0,"Name":"Socks","Price":5.0,"Description":"White Socks"},
+{"Quantity":1,"Weight":0,"PricePer":5.0,"Name":"Socks","Price":5.0,"Description":"White Socks"},
 {"Quantity":1,"Weight":0,"PricePer":20.0,"Name":"Shoes","Price":20.0,"Description":"Pair of Black Shoes"},
 {"Quantity":1,"Weight":0,"PricePer":45.0,"Name":"Jacket","Price":45.0,"Description":"Navy Blue Jacket"},
 {"Quantity":1,"Weight":0,"PricePer":15.0,"Name":"Jeans","Price":15.0,"Description":"Blue Jeans"},
