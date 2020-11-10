@@ -1,40 +1,22 @@
 [
-  {
-    "Name":"Shoes",
-    "Description":"Pair of Black Shoes",
-    "Weight":"0",
-    "Quantity":"1",
-    "Price":"10"
-   },
-   {
-    "Name":"Shirt",
-    "Description":"Plain White Tee",
-    "Weight":"0",
-    "Quantity":"1",
-    "Price":"5"
-   },
-   { "Name":"Socks",
-    "Description":"White Socks",
-    "Weight":"2",
-    "Quantity":"0",
-    "Price":"2"
-   },
-   { "Name":"Tie",
-    "Description":"Blue Tie",
-    "Weight":"0",
-    "Quantity":"1",
-    "Price":"6"
-   },
-   { "Name":"Apple",
-    "Description":"Red Apple",
-    "Weight":"2",
-    "Quantity":"0",
-    "Price":".75"
-   },
-   { "Name":"Pear",
-    "Description":"Ripe Pear",
-    "Weight":"2",
-    "Quantity":"0",
-    "Price":".25"
-   }
+{"Quantity":1,"pricePer":5.0,"name":"Socks","price":5.0},
+{"Quantity":1,"pricePer":20.0,"name":"Shoes","price":20.0},
+{"Quantity":1,"pricePer":45.0,"name":"Jacket","price":45.0},
+{"Quantity":1,"pricePer":15.0,"name":"Jeans","price":15.0},
+{"Quantity":1,"pricePer":50.0,"name":"Suit","price":50.0},
+{"Quantity":1,"pricePer":10.0,"name":"Shirt","price":10.0},
+{"Quantity":1,"pricePer":7.0,"name":"Tie","price":7.0},
+{"Quantity":1,"pricePer":15.0,"name":"Hat","price":15.0},
+{"Quantity":1,"pricePer":100.0,"name":"Watch","price":100.0},
+{"Quantity":1,"pricePer":150.0,"name":"Necklace","price":150.0},
+{"Weight":1.0,"pricePerOz":1.25,"name":"Grapes","price":1.25},
+{"Weight":1.0,"pricePerOz":1.0,"name":"Bananas","price":1.0},
+{"Weight":1.0,"pricePerOz":0.75,"name":"Avocado","price":0.75},
+{"Weight":1.0,"pricePerOz":0.25,"name":"Apples","price":0.25},
+{"Weight":1.0,"pricePerOz":0.1,"name":"Black Berries","price":0.1},
+{"Weight":1.0,"pricePerOz":1.25,"name":"Mango","price":1.25},
+{"Weight":1.0,"pricePerOz":0.55,"name":"Pear","price":0.55},
+{"Weight":1.0,"pricePerOz":1.5,"name":"Dragon Fruit","price":1.5},
+{"Weight":1.0,"pricePerOz":0.5,"name":"Watermelon","price":0.5},
+{"Weight":1.0,"pricePerOz":0.25,"name":"Oranges","price":0.25}
 ]
