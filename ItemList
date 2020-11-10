@@ -18,5 +18,5 @@
 {"Weight":1.0,"PricePerOz":0.55,"Name":"Pear","Price":0.55,"Description":"Ripe Pear"},
 {"Weight":1.0,"PricePerOz":1.5,"Name":"Dragon Fruit","Price":1.5,"Description":"Exotic Fruit"},
 {"Weight":1.0,"PricePerOz":0.5,"Name":"Watermelon","Price":0.5,"Description":"Large Watermelon"},
-{"Weight":1.0,"PricePerOz":0.25,"Name":"Oranges","Price":0.25,"Package of 7 Oranges"}
+{"Weight":1.0,"PricePerOz":0.25,"Name":"Oranges","Price":0.25,"Description":"Package of 7 Oranges"}
 ]
