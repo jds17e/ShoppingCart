@@ -1,1 +1,40 @@
-[{"Name":"Shoe","Description":"2","Weight":"2","Quantity":"0"}]
+[
+  {
+    "Name":"Shoes",
+    "Description":"Pair of Black Shoes",
+    "Weight":"0",
+    "Quantity":"1",
+    "Price":"10"
+   },
+   {
+    "Name":"Shirt",
+    "Description":"Plain White Tee",
+    "Weight":"0",
+    "Quantity":"1",
+    "Price":"5"
+   },
+   { "Name":"Socks",
+    "Description":"White Socks",
+    "Weight":"2",
+    "Quantity":"0",
+    "Price":"2"
+   },
+   { "Name":"Tie",
+    "Description":"Blue Tie",
+    "Weight":"0",
+    "Quantity":"1",
+    "Price":"6"
+   },
+   { "Name":"Apple",
+    "Description":"Red Apple",
+    "Weight":"2",
+    "Quantity":"0",
+    "Price":".75"
+   },
+   { "Name":"Pear",
+    "Description":"Ripe Pear",
+    "Weight":"2",
+    "Quantity":"0",
+    "Price":".25"
+   }
+]
